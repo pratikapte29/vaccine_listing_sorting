@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1645093833 source:e:\c++projects\vaccine_listing_and_sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<winuser.h>
+
